@@ -4,8 +4,8 @@ load_dotenv()
 import os
 import openai
 
-azure_endpoint = "amitpuri"
-azure_deployment_name = "amitpuri"
+azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
+azure_deployment_name = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME")
 
 #model = "gpt-35-turbo"
 model = "gpt-4"
