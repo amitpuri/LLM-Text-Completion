@@ -1,12 +1,13 @@
 # LLM Text Completion - A Simplified Demo
 
-set environment variables in .env file
-- OPENAI_API_KEY from https://platform.openai.com/account/api-keys
-- Azure OpenAI Service Settings from Azure OpenAI https://portal.azure.com
-  - AZURE_OPENAI_KEY 
-  - AZURE_OPENAI_ENDPOINT
-  - AZURE_OPENAI_DEPLOYMENT_NAME
-- GOOGLE_PALM_AI_API_KEY from https://makersuite.google.com
+- rename example.env to .env
+- set environment variables in .env file
+  - OPENAI_API_KEY from https://platform.openai.com/account/api-keys
+  - Azure OpenAI Service Settings from Azure OpenAI https://portal.azure.com
+    - AZURE_OPENAI_KEY 
+    - AZURE_OPENAI_ENDPOINT
+    - AZURE_OPENAI_DEPLOYMENT_NAME
+  - GOOGLE_PALM_AI_API_KEY from https://makersuite.google.com
 
 Use these notebooks
 
