@@ -1,5 +1,6 @@
 # LLM Text Completion - A Simplified Demo
 
+- clone this repo
 - rename example.env to .env
 - set environment variables in .env file
   - OPENAI_API_KEY from https://platform.openai.com/account/api-keys
@@ -8,8 +9,13 @@
     - AZURE_OPENAI_ENDPOINT
     - AZURE_OPENAI_DEPLOYMENT_NAME
   - GOOGLE_PALM_AI_API_KEY from https://makersuite.google.com
+- for running individual Python programs, use this
 
-Use these notebooks
+      pip install -r requirements.txt
+      python text-completion.py
+      python text-completion-azure.py
+
+or, use these notebooks
 
 - [Gradio App](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/gradio-app.ipynb)
 - [OpenAI text-completion](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/text-completion-azure.ipynb)
