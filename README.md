@@ -11,15 +11,19 @@
   - GOOGLE_PALM_AI_API_KEY from https://makersuite.google.com
 - for running individual Python programs, use this
 
+Installation 
+
       pip install -r requirements.txt
   
-  
+ OpenAI 
+ 
       python text-completion.py
   
+  Azure OpenAI
   
       python text-completion-azure.py
 
-or, use these notebooks
+or use these notebooks
 
 - [Gradio App](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/gradio-app.ipynb)
 - [OpenAI text-completion](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/text-completion-azure.ipynb)
