@@ -11,15 +11,15 @@
   - GOOGLE_PALM_AI_API_KEY from https://makersuite.google.com
 - for running individual Python programs, use this
 
-Installation 
+  Installation 
 
       pip install -r requirements.txt
   
- OpenAI 
+  OpenAI Python API
  
       python text-completion.py
   
-  Azure OpenAI
+  Azure OpenAI Service
   
       python text-completion-azure.py
 
