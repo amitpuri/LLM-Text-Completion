@@ -12,7 +12,11 @@
 - for running individual Python programs, use this
 
       pip install -r requirements.txt
+  
+  
       python text-completion.py
+  
+  
       python text-completion-azure.py
 
 or, use these notebooks
