@@ -31,3 +31,6 @@ or use these notebooks
 
 
 More comprehensive demo available on https://github.com/amitpuri/ask-picturize-it
+
+Further, simplify using LangChain
+- [LangChain Python](https://python.langchain.com/docs/get_started/quickstart)
