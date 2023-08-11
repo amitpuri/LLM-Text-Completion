@@ -32,5 +32,6 @@ or use these notebooks
 
 More comprehensive demo available on https://github.com/amitpuri/ask-picturize-it
 
-Further, simplify using LangChain
-- [LangChain Python](https://python.langchain.com/docs/get_started/quickstart)
+Further, simplify using LangChain or Semantic Kernel
+- [LangChain](https://github.com/amitpuri/LLM-Text-Completion-langchain)
+- [Semantic Kernel](https://github.com/amitpuri/LLM-Text-Completion-Semantic-Kernel)
