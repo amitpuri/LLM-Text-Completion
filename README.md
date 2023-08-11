@@ -15,11 +15,11 @@
 
       pip install -r requirements.txt
   
-  OpenAI Python API
+  [OpenAI Python API](https://platform.openai.com/docs/api-reference)
  
       python text-completion.py
   
-  Azure OpenAI Service
+  [Azure OpenAI Service](https://learn.microsoft.com/azure/ai-services/openai)
   
       python text-completion-azure.py
 
@@ -30,7 +30,7 @@ or use these notebooks
 - [Azure OpenAI text-completion](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/text-completion.ipynb)
 
 
-More comprehensive demo available on https://github.com/amitpuri/ask-picturize-it
+More comprehensive demos available on (LLM Scenarios, Use cases on the Gradio app)[https://github.com/amitpuri/ask-picturize-it]
 
 Further, simplify using LangChain or Semantic Kernel
 - [Text Completion via LangChain](https://github.com/amitpuri/LLM-Text-Completion-langchain)
