@@ -29,9 +29,8 @@ or use these notebooks
 - [OpenAI text-completion](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/text-completion-azure.ipynb)
 - [Azure OpenAI text-completion](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/text-completion.ipynb)
 
-
-More comprehensive demos available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
-
 Further, simplify using LangChain or Semantic Kernel
 - [Text Completion via LangChain](https://github.com/amitpuri/LLM-Text-Completion-langchain)
 - [Text Completion via Semantic Kernel](https://github.com/amitpuri/LLM-Text-Completion-Semantic-Kernel)
+
+More comprehensive demos available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
