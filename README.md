@@ -33,4 +33,6 @@ Further, simplify using LangChain or Semantic Kernel
 - [Text Completion via LangChain](https://github.com/amitpuri/LLM-Text-Completion-langchain)
 - [Text Completion via Semantic Kernel](https://github.com/amitpuri/LLM-Text-Completion-Semantic-Kernel)
 
-More comprehensive demos available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
+More comprehensive demos are available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
+
+**Vertex AI API and Llama 2 usage are yet to be implemented.
