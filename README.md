@@ -33,6 +33,7 @@ Further, simplify using LangChain or Semantic Kernel
 - [Text Completion via LangChain](https://github.com/amitpuri/LLM-Text-Completion-langchain)
 - [Text Completion via Semantic Kernel](https://github.com/amitpuri/LLM-Text-Completion-Semantic-Kernel)
 - [ChatGPT plugins quickstart](https://github.com/openai/plugins-quickstart)
+- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 
 More comprehensive demos are available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
 
