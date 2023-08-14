@@ -32,6 +32,8 @@ or use these notebooks
 Further, simplify using LangChain or Semantic Kernel
 - [Text Completion via LangChain](https://github.com/amitpuri/LLM-Text-Completion-langchain)
 - [Text Completion via Semantic Kernel](https://github.com/amitpuri/LLM-Text-Completion-Semantic-Kernel)
+
+ChatGPT Plugin
 - [Plugins/examples](https://platform.openai.com/docs/plugins/examples/example-plugins)
 - [ChatGPT plugins quickstart](https://github.com/openai/plugins-quickstart)
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
