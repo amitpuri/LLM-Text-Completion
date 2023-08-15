@@ -1,2 +1,3 @@
 openai
+together
 python-dotenv
