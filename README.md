@@ -9,6 +9,9 @@
     - AZURE_OPENAI_ENDPOINT
     - AZURE_OPENAI_DEPLOYMENT_NAME
   - GOOGLE_PALM_AI_API_KEY from https://makersuite.google.com
+  - LLaMA-2 Together API
+    - TOGETHER_API_KEY from https://api.together.xyz/playground,
+    - Start LLaMA-2 Chat (70B)
 - for running individual Python programs, use this
 
   Installation 
