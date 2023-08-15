@@ -15,7 +15,7 @@
   - Vertex AI
       - GOOGLE_PROJECT_ID from Google Cloud console, refer to this https://cloud.google.com/vertex-ai/docs/start/cloud-environment
       - In the Google Cloud console, on the project selector page, select or create a Google Cloud project.
-      - Go to [project selector](https://console.cloud.google.com/projectselector2/home/dashboard)
+        - Go to [project selector](https://console.cloud.google.com/projectselector2/home/dashboard)
       - Make sure that billing is [enabled for your Google Cloud project](https://console.cloud.google.com/billing).
       - Enable the Vertex AI API
           -  [Enable the API](https://console.cloud.google.com/flows/enableapi?apiid=aiplatform.googleapis.com).
