@@ -30,6 +30,10 @@
   
       python text-completion-together-api-llama.py
 
+  [Vertex AI](https://cloud.google.com/vertex-ai)
+  
+      python text-completion-vertex-ai.py
+
 or use these notebooks
 
 - [Gradio App](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/gradio-app.ipynb)
@@ -47,4 +51,3 @@ ChatGPT Plugin
 
 More comprehensive demos are available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
 
-**Vertex AI API usage is yet to be implemented.
