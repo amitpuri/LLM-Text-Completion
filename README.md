@@ -26,6 +26,10 @@
   
       python text-completion-azure.py
 
+  [LLaMA-2 Chat (70B)](https://api.together.xyz/playground)
+  
+      python text-completion-together-api-llama.py
+
 or use these notebooks
 
 - [Gradio App](https://nbviewer.org/github/amitpuri/LLM-Text-Completion/blob/main/gradio-app.ipynb)
