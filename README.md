@@ -1,4 +1,4 @@
-# LLM Text Completion - A Simplified Demo
+# LLM Text Completion
 
 - clone this repo
 - rename example.env to .env
