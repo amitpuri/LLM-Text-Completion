@@ -40,4 +40,4 @@ ChatGPT Plugin
 
 More comprehensive demos are available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
 
-**Vertex AI API and Llama 2 usage are yet to be implemented.
+**Vertex AI API usage is yet to be implemented.
