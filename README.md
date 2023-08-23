@@ -16,7 +16,7 @@
       - GOOGLE_PROJECT_ID from Google Cloud console, refer to this https://cloud.google.com/vertex-ai/docs/start/cloud-environment
       - In the Google Cloud console, on the project selector page, select or create a Google Cloud project.
         - Go to [project selector](https://console.cloud.google.com/projectselector2/home/dashboard)
-      - Make sure that billing is [enabled for your Google Cloud project](https://console.cloud.google.com/billing).
+      - Make sure billing is [enabled for your Google Cloud project](https://console.cloud.google.com/billing).
       - Enable the Vertex AI API
           -  [Enable the API](https://console.cloud.google.com/flows/enableapi?apiid=aiplatform.googleapis.com).
       - Add GCP Credential file as gcp-cred.json for Vertex AI, IAM -> Service accounts -> An account -> Keys from [https://console.cloud.google.com/iam-admin/serviceaccounts](https://console.cloud.google.com/iam-admin/serviceaccounts).
@@ -56,7 +56,7 @@ ChatGPT Plugin
 - [Plugins/examples](https://platform.openai.com/docs/plugins/examples/example-plugins)
 - [ChatGPT plugins quickstart](https://github.com/openai/plugins-quickstart)
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
-- [https://github.com/Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins)
+- [Awesome ChatGPT Plugins](https://github.com/Jeadie/awesome-chatgpt-plugins)
 
 More comprehensive demos are available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
 
