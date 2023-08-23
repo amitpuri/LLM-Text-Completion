@@ -56,6 +56,7 @@ ChatGPT Plugin
 - [Plugins/examples](https://platform.openai.com/docs/plugins/examples/example-plugins)
 - [ChatGPT plugins quickstart](https://github.com/openai/plugins-quickstart)
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+- [https://github.com/Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins)
 
 More comprehensive demos are available on [LLM Scenarios, Use cases on the Gradio app](https://github.com/amitpuri/ask-picturize-it)
 
